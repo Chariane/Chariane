@@ -2,7 +2,7 @@
 
 **Développeuse Web & Mobile | Étudiante en Licence 3 (Analyse Informatique et Programmation) à l'ENEAM**
 
-Je conçois des applications modernes avec React, FastAPI et Laravel. J'ai une solide expérience dans l'intégration de systèmes de paiement et le développement d'applications complètes (Frontend + Backend).
+Je conçois des applications modernes avec React, FastAPI et Laravel. Passionnée par la Fintech et la Cybersécurité, je me forme actuellement sur **TryHackMe** pour devenir Pentester.
 
 ---
 
@@ -11,23 +11,28 @@ Je conçois des applications modernes avec React, FastAPI et Laravel. J'ai une s
 - **Langages :** HTML, CSS, JavaScript, Python, Dart, PHP
 - **Frameworks :** Flutter, React.js, FastAPI, Laravel
 - **Bases de données :** PostgreSQL, MySQL
-- **Outils :** GitHub, VS Code, Trello, TryHackMe (Cybersécurité)
+- **Sécurité :** Pentesting (TryHackMe), Sécurité des API, Analyse de vulnérabilités
+- **Outils :** GitHub, VS Code, Trello, Linux
+
+---
+
+### 🛡️ Focus Cybersécurité
+
+📖 **Cybersecurity Notes** - Je documente mon apprentissage et mes résumés de cours pour devenir Pentester.  
+[Accéder à mes notes de cours](https://github.com/Chariane/cybersecurity-notes)
 
 ---
 
 ### 🚀 Projets Clés
 
-🍴 **LyteFood** - Plateforme de gestion des commandes et livraisons pour la restauration avec suivi en temps réel et intégration de moyens de paiement.
+🍴 **LyteFood** - Plateforme de gestion des commandes et livraisons avec intégration de paiements.
 [Voir le repo](https://github.com/Chariane/LyteFood)
 
-🇧🇯 **Culture Béninoise** - Plateforme dédiée à la culture avec gestion de contenu premium et paiements sécurisés.
+🇧🇯 **Culture Béninoise** - Plateforme dédiée à la culture avec contenu premium sécurisé.
 [Voir le repo](https://github.com/Chariane/culture-benin)
 
 ✅ **Todo List App** - Application mobile de gestion de tâches performante.
 [Voir le repo](https://github.com/Michaeltheonlyone/todo-list-app)
-
-📅 **My Event** - Système de gestion d'événements personnels.
-[Voir le repo](https://github.com/Chariane/my_event)
 
 ---
 
