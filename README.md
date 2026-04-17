@@ -34,6 +34,9 @@ Je conçois des applications modernes avec React, FastAPI et Laravel. Passionné
 ✅ **Todo List App** - Application mobile de gestion de tâches performante.
 [Voir le repo](https://github.com/Michaeltheonlyone/todo-list-app)
 
+📅 **My Event** - Système de gestion d'événements personnels.
+[Voir le repo](https://github.com/Chariane/my_event)
+
 ---
 
 ### 📊 Statistiques GitHub
